@@ -80,7 +80,7 @@ body {
 /* COMMON */
 
 .tablet-element {
-  display: none !important;
+  display: none;
 }
 
 .desktop-element {
@@ -88,7 +88,7 @@ body {
 }
 
 .mobile-element {
-  display: block !important;
+  display: block;
 }
 
 .accent-btn {
