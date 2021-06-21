@@ -371,6 +371,7 @@ body {
 .front-page {
   width: 100%;
   background: var(--c-dark);
+  overflow-x: hidden;
 }
 
 .front-page-wrapper {
